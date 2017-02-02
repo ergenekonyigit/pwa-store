@@ -1,0 +1,14 @@
+[
+  {
+    "url":"https://twitter.com/",
+    "title":"Twitter",
+    "category":"social",
+    "image":"/data/images/twitter.png"
+  },
+  {
+    "url":"https://jakearchibald-gcm.appspot.com/",
+    "title":"Emojoy",
+    "category":"social",
+    "image":"/data/images/emojoy.png"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "url":"https://www.independent.co.uk/",
+    "title":"Independent",
+    "category":"news",
+    "image":"/data/images/independent.png"
+  },
+  {
+    "url":"https://www.theguardian.com/",
+    "title":"The Guardian",
+    "category":"news",
+    "image":"/data/images/theguardian.png"
+  },
+  {
+    "url":"https://react-hn.appspot.com/",
+    "title":"React HN",
+    "category":"news",
+    "image":"/data/images/react-hn.png"
+  }
+]

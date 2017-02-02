@@ -1,0 +1,20 @@
+[
+  {
+    "url":"https://www.flipkart.com/",
+    "title":"Flipkart",
+    "category":"shopping",
+    "image":"/data/images/flipkart.png"
+  },
+  {
+    "url":"https://housing.com/",
+    "title":"Housing Go",
+    "category":"shopping",
+    "image":"/data/images/housing-go.png"
+  },
+  {
+    "url":"https://www.aliexpress.com/",
+    "title":"AliExpress",
+    "category":"shopping",
+    "image":"/data/images/aliexpress.png"
+  }
+]

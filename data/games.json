@@ -1,0 +1,14 @@
+[
+  {
+    "url":"https://polymon.polymer-project.org/",
+    "title":"Polymon",
+    "category":"games",
+    "image":"/data/images/polymon.png"
+  },
+  {
+    "url":"https://www.pokedex.org/",
+    "title":"Pokedex",
+    "category":"games",
+    "image":"/data/images/pokedex.png"
+  }
+]

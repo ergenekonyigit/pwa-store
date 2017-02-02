@@ -1,0 +1,14 @@
+[
+  {
+    "url":"https://qrcodescan.in/",
+    "title":"Qr Code Scan",
+    "category":"tools",
+    "image":"/data/images/qrcodescan.png"
+  },
+  {
+    "url":"https://smaller-pictures.appspot.com/",
+    "title":"Smaller Pictures",
+    "category":"tools",
+    "image":"/data/images/smaller-pictures.png"
+  }
+]
