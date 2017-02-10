@@ -4,5 +4,11 @@
     "title":"Devspace",
     "category":"productivity",
     "image":"/data/images/devspace.png"
+  },
+  {
+    "url":"https://outweb.io/",
+    "title":"Outweb",
+    "category":"productivity",
+    "image":"/data/images/outweb.png"
   }
 ]
